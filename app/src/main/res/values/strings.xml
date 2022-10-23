@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="social_media">Social Media</string>
+    <string name="email">Email</string>
+</resources>
